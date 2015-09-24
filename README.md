@@ -1,5 +1,5 @@
-# Google Realtime API - Python Example
-This code will make a call to the google analytics realtime api to get current number of active users.
+# Google Realtime API - Python
+This is a simple command line app that will make a call to the google analytics realtime api to get current number of active users.
 
 ## Instructions
 
