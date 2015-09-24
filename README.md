@@ -12,7 +12,6 @@ This code will make a call to the google analytics realtime api to get current n
 4. Copy the key to the same directory as the python files.
 
 5. In main.py set the following fields.
-
-account_email = 'yourserviceaccount@developer.gserviceaccount.com'
-keyfile = 'KEYNAME.p12'
-analytics_view_id = 'ga:VIEW_ID'
+  - account_email = 'yourserviceaccount@developer.gserviceaccount.com'
+  - keyfile = 'KEYNAME.p12'
+  - analytics_view_id = 'ga:VIEW_ID'
